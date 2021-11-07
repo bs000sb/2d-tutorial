@@ -122,3 +122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d02109ec0c40d242a5a4ccac7053397, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  respawn: 0
+  timeToRespawn: 0
+  apple: {fileID: 0}
+  collectedClip: {fileID: 8300000, guid: af5f8b64e3f58f24c87ff8f789b04f6c, type: 3}

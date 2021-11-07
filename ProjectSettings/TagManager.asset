@@ -13,9 +13,9 @@ TagManager:
   - UI
   - Background
   - Player
-  - 
-  - 
-  - 
+  - Projectile
+  - Confiner
+  - NPC
   - 
   - 
   - 
@@ -46,4 +46,13 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3009174927
+    locked: 0
+  - name: Projectile
+    uniqueID: 4232546425
+    locked: 0
+  - name: Confiner
+    uniqueID: 410793841
+    locked: 0
+  - name: NPC
+    uniqueID: 419869869
     locked: 0
